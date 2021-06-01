@@ -50,5 +50,5 @@ simplegeneric==0.8.1
 six==1.10.0
 tensorflow==0.12.1
 tqdm==4.14.0
-urllib3==1.13.1
+urllib3==1.26.5
 waitress==0.8.10
