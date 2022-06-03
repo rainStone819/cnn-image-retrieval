@@ -1,5 +1,5 @@
 audioread==2.1.4
-bottle==0.12.7
+bottle==0.12.20
 cffi==1.10.0
 chardet==2.3.0
 Cheetah==2.4.4
