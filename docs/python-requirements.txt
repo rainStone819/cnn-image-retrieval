@@ -17,7 +17,7 @@ ipaddress==1.0.16
 ipython==2.4.1
 jedi==0.9.0
 Jinja2==2.9.5
-joblib==0.11
+joblib==1.2.0
 jsonpatch==1.15
 jsonpointer==1.10
 librosa==0.5.1
